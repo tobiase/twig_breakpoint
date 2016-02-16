@@ -1,0 +1,5 @@
+services:
+  twig_breakpoint:
+    class: Drupal\twig_breakpoint\TwigBreakpoint\TwigBreakpoint
+    tags:
+      - { name: twig.extension }

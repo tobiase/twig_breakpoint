@@ -1,0 +1,5 @@
+name: Twig Breakpoint
+type: module
+description: Adds a twig extension to enable xdebug breakpoints in templates
+core: 8.x
+package: Other
