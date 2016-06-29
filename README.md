@@ -1,3 +1,6 @@
+# DON'T USE THIS
+There is a much better implementation at https://www.drupal.org/project/twig_xdebug
+
 # Twig Breakpoint
 Twig Breakpoint is a Drupal 8 module that enables you to set xdebug breakpoints in twig templates.
 
